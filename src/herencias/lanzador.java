@@ -1,6 +1,6 @@
 package herencias;
 
-import herencias.Mamifero.Reptiles.*;
+import herencias.Reptiles.*;
 
 public class lanzador {
 

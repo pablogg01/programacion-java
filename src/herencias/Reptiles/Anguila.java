@@ -1,4 +1,4 @@
-package herencias.Mamifero.Reptiles;
+package herencias.Reptiles;
 
 public class Anguila extends Reptiles {
 
